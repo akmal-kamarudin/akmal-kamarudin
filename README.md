@@ -13,15 +13,57 @@
 </div>
 </div>
 
-### Hi there 👋
 ---
-### :man_technologist: About Me :
 
+### :man_technologist: About Me :
 - 👋 Hi! My name is Akmal Kamarudin - from Malaysia
 - ⚡ A tenacious self-taught dev
 - 💼 Front-end Web Developer
 - 🔭 I’m currently working on building a full stack web app with various tech stack
 - 🌱 I’m currently learning backend web development and any tech stack related
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akmal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-kamarudin19/)
+
+<br>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
+
+  <code><img height="25" src="https://www.svgrepo.com/show/452210/git.svg" alt='git'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/355338/ubuntu.svg" alt='ubuntu'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/306921/vercel.svg" alt='vercel'></code>
+  
+  <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
+  <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/448222/figma.svg" alt='figma'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
+  
+
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 <!--
 **akmal-kamarudin/akmal-kamarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
