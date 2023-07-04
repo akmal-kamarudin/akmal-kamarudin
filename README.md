@@ -32,25 +32,23 @@
   <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
-
   <code><img height="25" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/342062/next-js.svg" alt='next-js'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt='postgresql'></code>
-  
+  <code><img height="25" src="https://www.svgrepo.com/show/342062/next-js.svg" alt='next-js'></code>  
   <code><img height="25" src="https://www.svgrepo.com/show/452210/git.svg" alt='git'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/355338/ubuntu.svg" alt='ubuntu'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/306921/vercel.svg" alt='vercel'></code>
-  
-  <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
-  <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/448222/figma.svg" alt='figma'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
 </div>
+
+<br>
+
+### :fire: My Stats :
+
+| <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
+| ------------- | ------------- |
 
 <!--
 **akmal-kamarudin/akmal-kamarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,4 +65,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👀 Looking for open source to contribute my basic skills in tech-related
 
+<code><img height="25" src="https://www.svgrepo.com/show/306921/vercel.svg" alt='vercel'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
+<code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/448222/figma.svg" alt='figma'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
+
 -->
+
+ 
