@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbit&weight=500&size=40&duration=3000&pause=500&color=887BC8&width=435&lines=Hi!+I'm+Akmal+%F0%9F%91%8B%F0%9F%8F%BD;Hi!+I'm+a+Web+Dev+%F0%9F%95%B8%EF%B8%8F;Hi!+I'm+a+Tech+Enthusiast+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbit&weight=500&size=40&duration=3000&pause=500&color=887BC8&vCenter=true&width=500&lines=Hi!+I'm+Akmal+%F0%9F%91%8B%F0%9F%8F%BD;Hi!+I'm+a+Web+Dev+%F0%9F%95%B8%EF%B8%8F;Hi!+I'm+a+Tech+Enthusiast+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/akmal-kamarudin19/"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Linkedin.png" alt="LinkedIn" width="25px"/></a>
