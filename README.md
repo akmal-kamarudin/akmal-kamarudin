@@ -33,6 +33,12 @@
   <code><img height="25" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
 
+  <code><img height="25" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/342062/next-js.svg" alt='next-js'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt='postgresql'></code>
+  
   <code><img height="25" src="https://www.svgrepo.com/show/452210/git.svg" alt='git'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
@@ -44,25 +50,6 @@
   <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/448222/figma.svg" alt='figma'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
-  
-
-
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <!--
