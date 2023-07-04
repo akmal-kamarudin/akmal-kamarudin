@@ -47,8 +47,13 @@
 
 ### :fire: My Stats :
 
-| <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
+| <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
+
+
+<p align="center">
+    <a href="https://github.com/akmal-kamarudin"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akmal Kamarudin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akmal-kamarudin&theme=tokyonight"/></a>
+</p><br/>
 
 <!--
 **akmal-kamarudin/akmal-kamarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
