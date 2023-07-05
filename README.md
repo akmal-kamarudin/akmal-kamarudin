@@ -51,7 +51,7 @@
 | ------------- | ------------- |
 
 <p align="center">
-    <a href="https://github.com/akmal-kamarudin"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akmal Kamarudin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akmal-kamarudin&theme=tokyonight&background=00000CD0"/></a>
+    <a href="https://github.com/akmal-kamarudin"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akmal Kamarudin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akmal-kamarudin&theme=tokyonight-duo"/></a>
 </p><br/>
 
 <!--
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👀 Looking for open source to contribute my basic skills in tech-related
+&background=1a001a
 
 <code><img height="25" src="https://www.svgrepo.com/show/306921/vercel.svg" alt='vercel'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code>
