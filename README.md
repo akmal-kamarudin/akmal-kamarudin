@@ -47,7 +47,7 @@
 
 ### :fire: My Stats :
 
-| <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
+| <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
