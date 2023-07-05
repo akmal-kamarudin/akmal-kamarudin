@@ -3,12 +3,12 @@
 <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="120"/>
 
 <div id="badges">
-<a href="https://www.linkedin.com/in/akmal-kamarudin19/"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="24px"/></a>
-<a href="https://akmalkdin.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Hashnode" width="24px"/></a>
-<a href="https://twitter.com/akmalkdin"><img src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" width="24px"/></a>
-<a href="https://youtube.com/@akmalkamarudin2976"><img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" alt="Youtube" width="24px"/></a>
-<a href="https://www.upwork.com/freelancers/~0161970c8704f2b190"><img src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Upwork" width="24px"/></a>
-<a href="https://akmalkdin-v1.vercel.app/"><img src="https://img.icons8.com/arcade/64/star.png" alt="Portfolio" width="24px"/></a>
+<a href="https://www.linkedin.com/in/akmal-kamarudin19/"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="25px"/></a>
+<a href="https://akmalkdin.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Hashnode" width="25px"/></a>
+<a href="https://twitter.com/akmalkdin"><img src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" width="25px"/></a>
+<a href="https://youtube.com/@akmalkamarudin2976"><img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" alt="Youtube" width="25px"/></a>
+<a href="https://www.upwork.com/freelancers/~0161970c8704f2b190"><img src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Upwork" width="25px"/></a>
+<a href="https://akmalkdin-v1.vercel.app/"><img src="https://img.icons8.com/arcade/64/star.png" alt="Portfolio" width="25px"/></a>
 </div>
 
 </div>
@@ -29,20 +29,20 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt='postgresql'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/342062/next-js.svg" alt='next-js'></code>  
-  <code><img height="25" src="https://www.svgrepo.com/show/452210/git.svg" alt='git'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/355338/ubuntu.svg" alt='ubuntu'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt='typescript'></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='tailwind'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/452075/node-js.svg" alt='node-js'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/330398/express.svg" alt='express'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt='postgresql'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/342062/next-js.svg" alt='next-js'></code>  
+  <code><img height="30" src="https://www.svgrepo.com/show/452210/git.svg" alt='git'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/452192/docker.svg" alt='docker'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/448236/linux.svg" alt='linux'></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/355338/ubuntu.svg" alt='ubuntu'></code>
 </div>
 
 <br>
