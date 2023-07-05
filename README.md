@@ -22,7 +22,7 @@
 - 💼 Front-end Web Developer
 - 🔭 I’m currently working on building a full stack web app with various tech stack
 - 🌱 I’m currently learning backend web development and any tech stack related
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akmal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-kamarudin19/)
+- 📫 How to reach me: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Akmal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-kamarudin19/) or drop an email to akmal.kamarudin19@gmail.com
 
 <br>
 
