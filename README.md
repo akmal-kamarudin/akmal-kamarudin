@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/448222/figma.svg" alt='figma'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='terminal'></code>
 
 | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akmal-kamarudin&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Akmal's github stats" /></a> | <a href="https://github.com/akmal-kamarudin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-kamarudin&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
