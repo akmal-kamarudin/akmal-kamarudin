@@ -3,12 +3,12 @@
 <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="120"/>
 
 <div id="badges">
-<a href="https://www.linkedin.com/in/akmal-kamarudin19/"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="25px"/></a>
-<a href="https://akmalkdin.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Hashnode" width="25px"/></a>
-<a href="https://twitter.com/akmalkdin"><img src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" width="25px"/></a>
-<a href="https://youtube.com/@akmalkamarudin2976"><img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" alt="Youtube" width="25px"/></a>
-<a href="https://www.upwork.com/freelancers/~0161970c8704f2b190"><img src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Upwork" width="25px"/></a>
-<a href="https://akmalkdin-v1.vercel.app/"><img src="https://img.icons8.com/arcade/64/star.png" alt="Portfolio" width="25px"/></a>
+<a href="https://www.linkedin.com/in/akmal-kamarudin19/" target="_blank"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="25px"/></a>
+<a href="https://akmalkdin.hashnode.dev/" target="_blank"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Hashnode" width="25px"/></a>
+<a href="https://twitter.com/akmalkdin" target="_blank"><img src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" width="25px"/></a>
+<a href="https://youtube.com/@akmalkamarudin2976" target="_blank"><img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" alt="Youtube" width="25px"/></a>
+<a href="https://www.upwork.com/freelancers/~0161970c8704f2b190" target="_blank"><img src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Upwork" width="25px"/></a>
+<a href="https://akmalkdin-v1.vercel.app/" target="_blank"><img src="https://img.icons8.com/arcade/64/star.png" alt="Portfolio" width="25px"/></a>
 </div>
 
 </div>
